@@ -1,0 +1,12 @@
+#ifndef CONSTANTES_H
+#define CONSTANTES_H
+
+enum EtatsSpareBox {
+  SOMMEIL,
+  MESURES,
+  CHOC,
+  OUVERTURE,
+  TRANSMISSION
+};
+
+#endif //CONSTANTES_H
